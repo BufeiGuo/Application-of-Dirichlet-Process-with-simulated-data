@@ -2,6 +2,7 @@
 
 \begin{document}
 <<>>=
+
 n <- 500
 y<- as.numeric()
 # Record the group that each point belongs to
